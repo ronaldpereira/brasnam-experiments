@@ -14,7 +14,7 @@ Repository containing all experiments for my paper in X Brazilian Workshop on So
 - [EvolveGCN](https://github.com/ronaldpereira/EvolveGCN)
 - [FastGCN](https://github.com/ronaldpereira/FastGCN)
 - [Other GNNs](https://github.com/ronaldpereira/mygcn)
-- [XGBoost](https://github.com/ronaldpereira/amlsim_xgb)
+- [XGBoost and CatBoost](https://github.com/ronaldpereira/amlsim_xgb)
 - [Pick And Choose GNN](https://github.com/ronaldpereira/pick-and-choose-gnn)
 
 ## Cite
