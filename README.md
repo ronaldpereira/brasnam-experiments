@@ -10,7 +10,6 @@ Repository containing all experiments for my paper in X Brazilian Workshop on So
 
 ## Experiments
 
-
 - [XGBoost](https://github.com/ronaldpereira/amlsim_xgb)
 - [GCN](https://github.com/ronaldpereira/gcn)
 - [GAT](https://github.com/gordicaleksa/pytorch-GAT)
