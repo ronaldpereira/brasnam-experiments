@@ -10,11 +10,14 @@ Repository containing all experiments for my paper in X Brazilian Workshop on So
 
 ## Experiments
 
+
+- [XGBoost](https://github.com/ronaldpereira/amlsim_xgb)
 - [GCN](https://github.com/ronaldpereira/gcn)
+- [GAT](https://github.com/gordicaleksa/pytorch-GAT)
+- [GraphSAGE](https://github.com/williamleif/GraphSAGE)
+- [GraphSAINT](https://github.com/GraphSAINT/GraphSAINT)
 - [EvolveGCN](https://github.com/ronaldpereira/EvolveGCN)
 - [FastGCN](https://github.com/ronaldpereira/FastGCN)
-- [Other GNNs](https://github.com/ronaldpereira/mygcn)
-- [XGBoost](https://github.com/ronaldpereira/amlsim_xgb)
 - [Pick And Choose GNN](https://github.com/ronaldpereira/pick-and-choose-gnn)
 
 ## Cite
