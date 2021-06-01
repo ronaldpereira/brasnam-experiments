@@ -1,6 +1,8 @@
-# Quão efetivas são Redes Neurais baseadas em Grafos na Detecção de Fraude para Dados em Rede?
+# How effective are Graph Neural Networks in Fraud Detection for Network Data?
 
 Repository containing all experiments for my paper in X Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2021): "Quão efetivas são Redes Neurais baseadas em Grafos na Detecção de Fraude para Dados em Rede?"
+
+You can find the full paper in this [arXiv link](https://arxiv.org/abs/2105.14568).
 
 ## Dataset Repository
 
