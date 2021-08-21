@@ -27,16 +27,18 @@ You can find the full paper in this [arXiv link](https://arxiv.org/abs/2105.1456
 Please cite our paper if you use this code in your own work:
 
 ``` TEX
-@INPROCEEDINGS{pereira2021efetivas,
-    AUTHOR="Ronald Pereira and Fabricio Murai",
-    TITLE="Quão efetivas são Redes Neurais baseadas em Grafos na Detecção de Fraude para Dados em Rede?",
-    BOOKTITLE="CSBC 2021 - BraSNAM () ",
-    ADDRESS="",
-    DAYS="18-22",
-    MONTH="jul",
-    YEAR="2021",
-    ABSTRACT="Redes Neurais baseadas em Grafos (GNNs) são modelos recentes criados para o aprendizado de representações de nós (e de grafos), que alcançaram resultados promissores na detecção de padrões que ocorrem em dados de larga escala que relacionam diferentes entidades. Dentre esses padrões, fraudes financeiras se destacam por sua relevância socioeconômica e por apresentarem desafios particulares, tais como o desbalanceamento extremo entre as classes positivas (fraudes) e negativas (transações legítimas), e o desvio de conceito (i.e., propriedades estatísticas dos dados mudam ao longo do tempo). Como as GNNs são baseadas em propagação de mensagem, a representação de um nó acaba sendo muito impactada pelos seus vizinhos e pelos hubs da rede, amplificando os efeitos do desbalanceamento. Pesquisas recentes tentam adaptar estratégias de sub- e sobreamostragem para GNNs a fim de mitigar esse efeito sem, contudo, considerar o desvio de conceito. Neste trabalho, realizamos uma série de experimentos para avaliar técnicas existentes de detecção de fraudes em rede, considerando os dois desafios anteriores. Para isso, utilizamos conjuntos de dados reais, complementados por dados sintéticos criados a partir de uma nova metodologia introduzida aqui. Baseado nessa análise, propomos uma série de pontos de melhoria a serem investigados em pesquisas futuras.",
-    KEYWORDS="Lifecycle: characterization, analysis, mining, learning, sampling, monitoring, ; Human: spam, misinformation, malicious activities, ; Context: marketing, business, management, digital humanities, and software ecosystems. ",
-    URL="http://XXXXX/214293.pdf"
+@inproceedings{pereira2021howeffective,
+ author = {Ronald Pereira and Fabrício Murai},
+ title = {Quão efetivas são Redes Neurais baseadas em Grafos na Detecção de Fraude para Dados em Rede?},
+ booktitle = {Anais do X Brazilian Workshop on Social Network Analysis and Mining},
+ location = {Evento Online},
+ year = {2021},
+ keywords = {},
+ issn = {2595-6094},
+ pages = {205--210},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/brasnam.2021.16141},
+ url = {https://sol.sbc.org.br/index.php/brasnam/article/view/16141}
 }
 ```
