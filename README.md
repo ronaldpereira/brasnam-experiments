@@ -20,6 +20,7 @@ You can find the full paper in this [arXiv link](https://arxiv.org/abs/2105.1456
 - [EvolveGCN](https://github.com/ronaldpereira/EvolveGCN)
 - [FastGCN](https://github.com/ronaldpereira/FastGCN)
 - [Pick And Choose GNN](https://github.com/ronaldpereira/pick-and-choose-gnn)
+- [GraphSmote](https://github.com/ronaldpereira/GraphSmote)
 
 ## Cite
 
